@@ -1,2 +1,40 @@
-# wafer-inspection-simulator
-Python simulation of semiconductor wafer defect inspection, optical detection, and defect-limited yield
+# Wafer Inspection Simulator
+
+Python-based educational simulation of semiconductor wafer defect inspection, optical detection, and defect-limited yield.
+
+## Overview
+
+This project was developed as part of an Introduction to VLSI course project on semiconductor wafer quality assurance.
+
+The simulator models wafer defects, optical inspection, and the effect of defect density on manufacturing yield.
+
+## Features
+
+- Simulates multiple wafer defect patterns:
+  - Random particles
+  - Contamination clusters
+  - Scratches
+  - Edge-ring defects
+- Models dark-field optical inspection
+- Uses Rayleigh scattering behavior proportional to d^6 / lambda^4
+- Applies a configurable detection threshold
+- Calculates actual and detected defect density
+- Estimates defect-limited yield using a Negative-Binomial model
+- Provides interactive controls for simulation parameters
+- Visualizes generated defects, detected/missed defects, and optical scattering signal
+
+## Technologies
+
+- Python
+- NumPy
+- Matplotlib
+
+## Academic Context
+
+Developed as part of the Introduction to VLSI – Microelectronics Manufacturing Technologies course.
+
+The project received a grade of 87/100.
+
+## Important Note
+
+This is an educational simulation. Some parameters and assumptions are simplified and should not be interpreted as universal semiconductor manufacturing values.
