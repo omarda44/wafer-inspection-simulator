@@ -2,13 +2,13 @@
 
 Python-based educational simulation of semiconductor wafer defect inspection, optical detection, and defect-limited yield.
 
+![Wafer Inspection Simulator](simulator.png)
+
 ## Overview
 
 This project was developed as part of an Introduction to VLSI course project on semiconductor wafer quality assurance.
 
 The simulator models wafer defects, optical inspection, and the effect of defect density on manufacturing yield.
-
-![Wafer Inspection Simulator](simulator.png)
 
 ## Features
 
@@ -31,12 +31,11 @@ The simulator models wafer defects, optical inspection, and the effect of defect
 - NumPy
 - Matplotlib
 
-## Academic Context
+## How to Run
 
-Developed as part of the Introduction to VLSI – Microelectronics Manufacturing Technologies course.
+1. Make sure Python 3 is installed.
 
-The project received a grade of 87/100.
+2. Install the required packages:
 
-## Important Note
-
-This is an educational simulation. Some parameters and assumptions are simplified and should not be interpreted as universal semiconductor manufacturing values.
+```bash
+pip install numpy matplotlib
