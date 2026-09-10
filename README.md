@@ -47,6 +47,15 @@ pip install numpy matplotlib
 python wafer_qa_simulator.py
 ```
 
+## Contributors
+
+This project was developed as a team academic project with:
+
+- [Omar Darwish](https://github.com/omarda44)
+- [Abd Almoaz Awadallah](https://github.com/Abd-Aw)
+- [Khader Sandouka](https://github.com/Khader127)
+
+
 ## Academic Context
 
 Developed as part of the Introduction to VLSI – Microelectronics Manufacturing Technologies course.
