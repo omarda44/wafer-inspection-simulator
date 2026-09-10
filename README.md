@@ -39,5 +39,9 @@ The simulator models wafer defects, optical inspection, and the effect of defect
 
 ```bash
 pip install numpy matplotlib
+```
 
+3. Run the simulator:
+
+```bash
 python wafer_qa_simulator.py
