@@ -8,6 +8,8 @@ This project was developed as part of an Introduction to VLSI course project on 
 
 The simulator models wafer defects, optical inspection, and the effect of defect density on manufacturing yield.
 
+![Wafer Inspection Simulator](simulator.png)
+
 ## Features
 
 - Simulates multiple wafer defect patterns:
