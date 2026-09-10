@@ -45,3 +45,14 @@ pip install numpy matplotlib
 
 ```bash
 python wafer_qa_simulator.py
+```
+
+## Academic Context
+
+Developed as part of the Introduction to VLSI – Microelectronics Manufacturing Technologies course.
+
+The project received a grade of 87/100.
+
+## Important Note
+
+This is an educational simulation. Some parameters and assumptions are simplified and should not be interpreted as universal semiconductor manufacturing values.
